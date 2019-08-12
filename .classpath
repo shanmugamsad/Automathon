@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="C:/Users/Tamilarasu/Documents/Craftlite Framework/jarfiles/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tamilarasu/Documents/Craftlite Framework/jarfiles/fontbox-1.6.0-for-pdfbox.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tamilarasu/Documents/Craftlite Framework/jarfiles/Framework_Core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tamilarasu/Documents/Craftlite Framework/jarfiles/Framework_DataTable.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tamilarasu/Documents/Craftlite Framework/jarfiles/Framework_Reporting.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tamilarasu/Documents/Craftlite Framework/jarfiles/Framework_Selenium.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tamilarasu/Documents/Craftlite Framework/jarfiles/Framework_Utilities.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tamilarasu/Documents/Craftlite Framework/jarfiles/Healing-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tamilarasu/Documents/Craftlite Framework/jarfiles/PageBase.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tamilarasu/Documents/Craftlite Framework/jarfiles/poi-3.13-beta1 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tamilarasu/Documents/Craftlite Framework/jarfiles/poi-ooxml-3.13-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tamilarasu/Documents/Craftlite Framework/jarfiles/poi-ooxml-schemas-3.13-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tamilarasu/Documents/Craftlite Framework/jarfiles/selenium-java-2.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tamilarasu/Documents/Craftlite Framework/jarfiles/selenium-java-2.53.0-srcs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tamilarasu/Documents/Craftlite Framework/jarfiles/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tamilarasu/Documents/Craftlite Framework/jarfiles/sqljdbc42.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tamilarasu/Documents/Craftlite Framework/jarfiles/winium-elements-desktop-0.1.0-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tamilarasu/Documents/Craftlite Framework/jarfiles/winium-webdriver-0.1.0-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tamilarasu/Documents/Craftlite Framework/jarfiles/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
